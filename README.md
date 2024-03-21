@@ -1,6 +1,6 @@
 ![logo](https://github.com/AnuskaSingh5920/AnuskaSingh5920/blob/main/Banner.jpg)
-<h1 align="center">Hi 👋, I'm Anuska Singh</h1>
-<h3 align="center">Associate|IT Support|Sales and Marketing|Government Autonomous College|B.Sc Computer Science Honours|9.1 Cgpa</h3>
+<h1 align="center">Hi, I'm Anuska Singh</h1>
+<h3 align="center">Associate|Client Support|Sales and Marketing|IT Support and Operation|Government Autonomous College|B.Sc Computer Science Honours|9.1 CGPA</h3>
 <img align ="right " alt="sales" width="400" src ="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/07/21131841/salesforce-sales-team.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuskasingh5920&label=Profile%20views&color=0e75b6&style=flat" alt="anuskasingh5920" /> </p>
@@ -11,9 +11,34 @@
 
 - 👯 I’m looking to collaborate on **project that aims to address various real-world challenges. My main idea is to focus on client problems and how to deliver best possible user experience through our services. These ideas are not only optimized in terms of performance but will also scalable to user needs.**
 
+- Have a look into the portfolio video to know about the functionality of the site- https://drive.google.com/file/d/1gpXHLCjLKQ0BP3oo9prPvGKVXVHa7zkI/view?usp=drivesdk
 - 👨‍💻 All of my projects are available at [https://anuskasingh5920.github.io/project1/](https://anuskasingh5920.github.io/project1/)
+- 
 
-- 📝 I have written research articles [Sample-](Sample-)
+- 📝 Explore my sample work of diverse writing styles,optimized content, engaging articles and editing skills.
+- 1. Articles
+       1.1 Research Article - https://drive.google.com/file/d/1QF3inaSQIB1k2pw6O3h46IX1fQu8hvTO/view?usp=drivesdk
+       1.2 Article and Elisticle -   https://drive.google.com/file/d/1QXCyzhEKXfQbB2IprsXskiK4WKKVbegO/view?usp=drivesdk
+  2. Video Presentation
+      2.1 Sales Data Analysis - https://drive.google.com/file/d/1EZnrFcrQlJgxziLjE6THIxTA_FWWw0bQ/view?usp=drivesdk
+      2.2 Approach to Increase the sales of Dishwasher - 
+  3. Slides
+       3.1 Viksit Bharat - 
+       3.2 Sales Data Analysis - 
+       3.3 Approach to Increase the sales of Dishwasher - 
+  4. Technical Content Writing
+       4.1 App Grading -
+  5. Video Editing
+        5.1 
+  6. Storytelling
+       5.1 Video - 
+       5.2 Slide - 
+  7. Education
+        7.1 Lesson Plan -  
+        7.2 Slides - 
+        7.3 Lesson Delivery -
+
+  
 
 - 💬 Ask me about **IT Support and Operations|Sales and Marketing|Business Intelligence|Data Analysis|SDLC|Technical Content Writing|Documentation|Microsoft Office Suite|Report Generation|Photoshop**
 
