@@ -16,35 +16,14 @@
 - 
 
 - 📝 Explore my sample work of diverse writing styles,optimized content, engaging articles and editing skills.
-- 1. Articles
-       1.1 Research Article - https://drive.google.com/file/d/1QF3inaSQIB1k2pw6O3h46IX1fQu8hvTO/view?usp=drivesdk
-       1.2 Article and Elisticle -   https://drive.google.com/file/d/1QXCyzhEKXfQbB2IprsXskiK4WKKVbegO/view?usp=drivesdk
-  2. Video Presentation
-      2.1 Sales Data Analysis - https://drive.google.com/file/d/1EZnrFcrQlJgxziLjE6THIxTA_FWWw0bQ/view?usp=drivesdk
-      2.2 Approach to Increase the sales of Dishwasher - 
-  3. Slides
-       3.1 Viksit Bharat - 
-       3.2 Sales Data Analysis - 
-       3.3 Approach to Increase the sales of Dishwasher - 
-  4. Technical Content Writing
-       4.1 App Grading -
-  5. Video Editing
-        5.1 
-  6. Storytelling
-       5.1 Video - 
-       5.2 Slide - 
-  7. Education
-        7.1 Lesson Plan -  
-        7.2 Slides - 
-        7.3 Lesson Delivery -
-
-  
+- Sample work - https://1drv.ms/f/s!Atr2Y7_rkaYQgQZFJFbDKPGGgJ1d
 
 - 💬 Ask me about **IT Support and Operations|Sales and Marketing|Business Intelligence|Data Analysis|SDLC|Technical Content Writing|Documentation|Microsoft Office Suite|Report Generation|Photoshop**
 
 - 📧 E-mail **anuskasingh080@gmail.com**
 
-- 📄 Know about my experiences [Resume-](Resume-)
+- 📄 Resume and Certifications - https://drive.google.com/file/d/1OyW4SmpWgsop3ypMNmFHAKjYsJkRtHSY/view?usp=drivesdk
+
 
 - ⚡ Hobbies **Learning,Singing,Cooking,Photography,Art and Craft.**
 
