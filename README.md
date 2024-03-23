@@ -13,7 +13,6 @@
 
 - Have a look into the portfolio video to know about the functionality of the site- https://drive.google.com/file/d/1gpXHLCjLKQ0BP3oo9prPvGKVXVHa7zkI/view?usp=drivesdk
 - 👨‍💻 All of my projects are available at [https://anuskasingh5920.github.io/project1/](https://anuskasingh5920.github.io/project1/)
-- 
 
 - 📝 Explore my sample work of diverse writing styles,optimized content, engaging articles and editing skills.
 - Sample work - https://1drv.ms/f/s!Atr2Y7_rkaYQgQZFJFbDKPGGgJ1d
