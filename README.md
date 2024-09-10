@@ -5,8 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuskasingh5920&label=Profile%20views&color=0e75b6&style=flat" alt="anuskasingh5920" /> </p>
 
-- 🔭 I’m working as a course coodinater. I have a proven experience of working on open-source web-based ERP System and have a proficient understanding of the following domains: **1.Sales and Marketing 2.Salesforce Automation 3.Enterprise Resource Planning 4.Lead Management 5.Profile Enrichment 6.Customer Relationship Management 7.Professional Written and Verbal Communication 8.Customer Service Management**
-
+- 🔭 I’m working as a course coodinater. Experienced professional in Sales, Marketing, Customer Support and Business Development. I have a proven experience of working on open-source web-based ERP System and have a proficient understanding of the following domains: **1.Sales and Marketing 2.Course Administration 3.Customer Support 4.Business Development 5.Lead Management 6.Profile Enrichment 7.Customer Relationship Management 8.Professional Written and Verbal Communication 9.Customer Service Management**
+/
 - 🌱 I’m currently passionate to learn **Development - MERN,flutter,Bootstrap, Api, Seo friendly code,CI/CD,Marketing of site. Designing- UI/UX Design**
 
 - 👯 I’m looking to collaborate on **project that aims to address various real-world challenges. My main idea is to focus on client problems and how to deliver best possible user experience through our services. These ideas are not only optimized in terms of performance but will also scalable to user needs.**
