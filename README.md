@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuskasingh5920&label=Profile%20views&color=0e75b6&style=flat" alt="anuskasingh5920" /> </p>
 
-- 🔭 I’m currently remotely working as an associate. I have a proven experience of working on open-source web-based ERP System and have a proficient understanding of the following domains: **1.Sales and Marketing 2.Salesforce Automation 3.Enterprise Resource Planning 4.Lead Management 5.Profile Enrichment 6.Customer Relationship Management 7.Professional Written and Verbal Communication 8.Customer Service Management**
+- 🔭 I’m working as a course coodinater. I have a proven experience of working on open-source web-based ERP System and have a proficient understanding of the following domains: **1.Sales and Marketing 2.Salesforce Automation 3.Enterprise Resource Planning 4.Lead Management 5.Profile Enrichment 6.Customer Relationship Management 7.Professional Written and Verbal Communication 8.Customer Service Management**
 
 - 🌱 I’m currently passionate to learn **Development - MERN,flutter,Bootstrap, Api, Seo friendly code,CI/CD,Marketing of site. Designing- UI/UX Design**
 
