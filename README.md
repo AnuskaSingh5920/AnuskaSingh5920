@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on **project that aims to address various real-world challenges. My main idea is to focus on client problems and how to deliver best possible user experience through our services. These ideas are not only optimized in terms of performance but will also scalable to user needs.**
 
 - Have a look into the portfolio video to know about the functionality of the site- https://drive.google.com/file/d/1gpXHLCjLKQ0BP3oo9prPvGKVXVHa7zkI/view?usp=drivesdk
-- 👨‍💻 All of my projects are available at [https://anuskasingh5920.github.io/project1/](https://anuskasingh5920.github.io/project1/)
+- 👨‍💻 All of my projects are available at [https://anuskasingh5920.github.io/project1/](https://anushkasingh5920.github.io/project1/)
 
 - 📝 Explore my sample work of diverse writing styles,optimized content, engaging articles and editing skills.
 - Sample work - https://1drv.ms/f/s!Atr2Y7_rkaYQgQZFJFbDKPGGgJ1d
