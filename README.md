@@ -1,5 +1,5 @@
 ![logo](https://github.com/AnuskaSingh5920/AnuskaSingh5920/blob/main/Banner.jpg)
-<h1 align="center">Hi, I'm Anuska Singh</h1>
+<h1 align="center">Hi, I'm Anushka Singh</h1>
 <h3 align="center">Client Support|Sales and Marketing|IT Support and Operation|Government Autonomous College|B.Sc Computer Science Honours|9.1 CGPA</h3>
 <img align ="right " alt="sales" width="400" src ="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/07/21131841/salesforce-sales-team.gif">
 
